@@ -1,0 +1,68 @@
+# R session files
+.Rhistory
+.RData
+.Rproj.user/
+
+# knitr cache (reproducible from source)
+PROTEOMICS_ASSIGNMENT_BREAST_CANCER_cache/
+
+# Rendered outputs (reproducible from Rmd)
+PROTEOMICS_ASSIGNMENT_BREAST_CANCER.html
+PROTEOMICS_ASSIGNMENT_BREAST_CANCER.pdf
+PROTEOMICS_ASSIGNMENT_BREAST_CANCER.tex
+PROTEOMICS_ASSIGNMENT_BREAST_CANCER.knit.md
+PROTEOMICS_ASSIGNMENT_BREAST_CANCER_files/
+Rplots.pdf
+
+# Scratch / development scripts (not part of the tutorial)
+clean_duplicates.R
+extract_chat.R
+fix_figs.R
+get_results.R
+inject_interpretations.R
+other.R
+script.R
+script2.R
+strip_comments.R
+test.R
+update_human_flow.R
+update_human_flow_2.R
+
+# Log and text dumps
+output.log
+output.txt
+other_output.txt
+parsed_paper.txt
+pdf_text.txt
+transcript_search.txt
+user_chat_history.txt
+
+# Misc working files
+other_pipeline/
+*.docx
+
+# Unused CSL files (only springer-vancouver-brackets.csl is needed)
+vancouver.csl
+springer-vancouver.csl
+
+# PDF versions of figures (PNGs are sufficient for GitHub)
+figures/*.pdf
+
+# LaTeX intermediate files
+*.aux
+*.log
+*.toc
+*.out
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+
+# Root-level duplicates (originals in data/ and results/)
+BreastCancer_MSc2026_DiscoveryData_A.xlsx
+BreastCancer_Msc2026_Validation_B.xlsx
+DiscoveryA_limma_results.csv
+DiscoveryA_limma_SVA_sensitivity.csv
+DiscoveryA_signature.csv
+
+# Reference papers
+proteomics paper.pdf
