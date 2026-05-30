@@ -1,8 +1,10 @@
 # Proteomics Tutorial: Differential Protein Expression Analysis in Tamoxifen-Resistant ER+ Breast Cancer
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![R](https://img.shields.io/badge/R-%3E%3D4.3-blue.svg)](https://www.r-project.org/)
-[![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey.svg)]()
+## Authors
+
+- **Walter Odur - Uganda**
+- **Haggai Elisha Kipuyo - Tanzania**  
+MSc Bioinformatics, Makerere University
 
 A complete, reproducible, publication-quality label-free quantitative (LFQ) proteomics pipeline analyzing tamoxifen resistance in estrogen receptor-positive (ER+) breast cancer.
 
@@ -143,10 +145,6 @@ Raw Excel (MaxQuant LFQ)
 
 ---
 
-## Citation
-
-If you use this tutorial in your work, please cite:
-
 ```
 Odur, W. & Kipuyo, H.E. (2025). Differential Protein Expression Analysis: 
 Tamoxifen Response in ER+ Breast Cancer. Makerere University, MSc Bioinformatics.
@@ -159,17 +157,4 @@ Tamoxifen Response in ER+ Breast Cancer. Makerere University, MSc Bioinformatics
 - Ritchie, M.E. et al. (2015). limma powers differential expression analyses. *Nucleic Acids Res.*
 - Fiorillo, M. et al. (2021). Mitochondrial bioenergetics in breast cancer. *Cancers*
 
----
 
-## Authors
-
-- **Walter Odur** (2025/HD07/26017U)
-- **Haggai Elisha Kipuyo** (2025/HD07/30926T)
-
-MSc Bioinformatics, Makerere University
-
----
-
-## License
-
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
