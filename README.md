@@ -73,8 +73,8 @@ This tutorial implements an end-to-end clinical proteomics workflow from raw Max
 
 1. **Clone** the repository:
    ```bash
-   git clone https://github.com/Walter-Odur/proteomics-tamoxifen-resistance.git
-   cd proteomics-tamoxifen-resistance
+   git clone https://github.com/Walter-Odur/Differential-Protein-Expression-With-Limma-Proteomics.git
+   cd Differential-Protein-Expression-With-Limma-Proteomics
    ```
 
 2. **Open** `PROTEOMICS_ASSIGNMENT_BREAST_CANCER.Rmd` in RStudio
